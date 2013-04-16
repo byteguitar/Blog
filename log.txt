@@ -1,0 +1,65 @@
+www.htmldrive.net
+
+http://codevisually.com/
+
+>>2012-9-20 
+1.在ivt4的项目中开始使用emberjs
+2. avatar 头像
+
+>>2012-9-21
+1.emberjs 一个不错的联系人例子
+http://emberjs.com/examples/contacts/
+
+
+http://www.initializr.com/
+
+
+>>2013-2
+1. 网站整个大的布局
+   <div class="row">  <!--最外层的row-->
+      <div  class="12 columns">
+
+               <div class="row">  <!--头部-->
+	       </div>
+
+	       <div class="row panelDynamic">   <!--动态出现的面板多个-->
+	       </div>
+
+	       <div class="row main-content">
+
+		  <div class="panelConfig">   <!--配置面板-->
+		  </div>
+	       </div>
+
+
+	       <div class="row newscontent">  <!--显示具体的新闻内容信息-->
+	       </div>
+
+		<div class="row main_content ivt_content" style="margin-top:-2px;" >
+                     <div class="9 column">   <!--左边内容-->
+
+		          <div class=row>   <!--菜单行-->
+			     <div class="12column">
+			     </div>
+			  </div>
+
+
+			  <div class=row>
+			    <div class ="12column  panelNews">
+			    </div>
+
+
+			  </div>
+
+
+		     </div>
+		     <div class="3 columns">  <!--右边内容-->
+		     </div>
+                </div>
+	       
+
+
+
+
+      </div>
+   </div>
